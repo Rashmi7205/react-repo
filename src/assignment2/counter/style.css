@@ -1,0 +1,30 @@
+.counter{
+    width: 450px;
+    height: 350px;
+    background-color: rgb(218, 64, 64);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3em;
+    border-radius: 20px;
+    color: #fff;
+}
+.btn{
+    width: 120px;
+    height: 40px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    font-size: .6em;
+    text-align: center;
+    font-weight: 600;
+    color: #000000;cursor: pointer;
+}
+.btn-section{
+    width: 90%;
+    height: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
